@@ -1,0 +1,11 @@
+G:\CodeTest\Core AES Test\bin\Debug\netcoreapp2.2\Core AES Test.deps.json
+G:\CodeTest\Core AES Test\bin\Debug\netcoreapp2.2\Core AES Test.runtimeconfig.json
+G:\CodeTest\Core AES Test\bin\Debug\netcoreapp2.2\Core AES Test.runtimeconfig.dev.json
+G:\CodeTest\Core AES Test\bin\Debug\netcoreapp2.2\Core AES Test.dll
+G:\CodeTest\Core AES Test\bin\Debug\netcoreapp2.2\Core AES Test.pdb
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.csprojAssemblyReference.cache
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.AssemblyInfoInputs.cache
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.AssemblyInfo.cs
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.dll
+G:\CodeTest\Core AES Test\obj\Debug\netcoreapp2.2\Core AES Test.pdb
