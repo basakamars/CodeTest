@@ -1,0 +1,2 @@
+﻿代码放在HomeController中
+需要注意Startup中的设置

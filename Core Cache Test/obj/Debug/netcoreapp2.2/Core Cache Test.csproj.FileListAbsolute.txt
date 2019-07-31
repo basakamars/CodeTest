@@ -1,0 +1,6 @@
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.csprojAssemblyReference.cache
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.RazorAssemblyInfo.cache
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.RazorAssemblyInfo.cs
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.AssemblyInfoInputs.cache
+G:\CodeTest\Core Cache Test\obj\Debug\netcoreapp2.2\Core Cache Test.AssemblyInfo.cs
