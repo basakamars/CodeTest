@@ -1,0 +1,11 @@
+G:\CodeTest\NETCore.Encryp Test\bin\Debug\netcoreapp2.2\NETCore.Encryp Test.deps.json
+G:\CodeTest\NETCore.Encryp Test\bin\Debug\netcoreapp2.2\NETCore.Encryp Test.runtimeconfig.json
+G:\CodeTest\NETCore.Encryp Test\bin\Debug\netcoreapp2.2\NETCore.Encryp Test.runtimeconfig.dev.json
+G:\CodeTest\NETCore.Encryp Test\bin\Debug\netcoreapp2.2\NETCore.Encryp Test.dll
+G:\CodeTest\NETCore.Encryp Test\bin\Debug\netcoreapp2.2\NETCore.Encryp Test.pdb
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.csprojAssemblyReference.cache
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.AssemblyInfoInputs.cache
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.AssemblyInfo.cs
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.dll
+G:\CodeTest\NETCore.Encryp Test\obj\Debug\netcoreapp2.2\NETCore.Encryp Test.pdb
