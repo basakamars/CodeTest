@@ -1,0 +1,11 @@
+G:\CodeTest\Core Json.net Test\bin\Debug\netcoreapp2.2\Core Json.net Test.deps.json
+G:\CodeTest\Core Json.net Test\bin\Debug\netcoreapp2.2\Core Json.net Test.runtimeconfig.json
+G:\CodeTest\Core Json.net Test\bin\Debug\netcoreapp2.2\Core Json.net Test.runtimeconfig.dev.json
+G:\CodeTest\Core Json.net Test\bin\Debug\netcoreapp2.2\Core Json.net Test.dll
+G:\CodeTest\Core Json.net Test\bin\Debug\netcoreapp2.2\Core Json.net Test.pdb
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.csprojAssemblyReference.cache
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.AssemblyInfoInputs.cache
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.AssemblyInfo.cs
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.dll
+G:\CodeTest\Core Json.net Test\obj\Debug\netcoreapp2.2\Core Json.net Test.pdb
