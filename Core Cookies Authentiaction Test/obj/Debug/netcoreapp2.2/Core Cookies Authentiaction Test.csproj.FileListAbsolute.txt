@@ -1,0 +1,31 @@
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.deps.json
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.runtimeconfig.json
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.runtimeconfig.dev.json
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.dll
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.csprojAssemblyReference.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.RazorAssemblyInfo.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.RazorAssemblyInfo.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.AssemblyInfoInputs.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.AssemblyInfo.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.TagHelpers.input.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.TagHelpers.output.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.RazorCoreGenerate.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.RazorTargetAssemblyInfo.cache
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.RazorTargetAssemblyInfo.cs
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.pdb
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.Views.dll
+G:\CodeTest\Core Cookies Authentiaction Test\bin\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.Views.pdb
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.Views.pdb
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.dll
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.pdb
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Core Cookies Authentiaction Test.csproj.CopyComplete
+G:\CodeTest\Core Cookies Authentiaction Test\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
