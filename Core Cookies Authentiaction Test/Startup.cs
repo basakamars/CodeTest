@@ -36,6 +36,9 @@ namespace Core_Cookies_Authentiaction_Test
             .AddCookie(options =>
             {
                 options.LoginPath = "/Home/Login/";
+                options.Cookie.Name = "TestAuth";
+                options.Cookie.Path = "/";
+
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);

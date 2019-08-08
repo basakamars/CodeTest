@@ -53,5 +53,11 @@ namespace Core_Cookies_Authentiaction_Test.Controllers
             }
             else return BadRequest("Have error");
         }
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+            return RedirectToAction("Index", "Home");
+        }
     }
 }
