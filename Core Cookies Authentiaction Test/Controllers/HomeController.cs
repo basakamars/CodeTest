@@ -44,7 +44,9 @@ namespace Core_Cookies_Authentiaction_Test.Controllers
             {
                 var claims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Name, user.UserName)
+                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(ClaimTypes.NameIdentifier,"00000000000000001"),
+                    new Claim(ClaimTypes.Role,"Administrator")
                 };
                 ClaimsIdentity userIdentity = new ClaimsIdentity(claims, "login");
                 ClaimsPrincipal principal = new ClaimsPrincipal(userIdentity);

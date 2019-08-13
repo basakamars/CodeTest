@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -11,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Core_Cookies_Authentiaction_Test
+namespace Cookies_Role_Authentiaction_Test
 {
     public class Startup
     {
@@ -32,14 +31,6 @@ namespace Core_Cookies_Authentiaction_Test
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-            .AddCookie(options =>
-            {
-                options.LoginPath = "/Home/Login/";
-                options.Cookie.Name = "TestAuth";
-                options.Cookie.Path = "/";
-                options.ReturnUrlParameter = CookieAuthenticationDefaults.ReturnUrlParameter;
-            });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
@@ -58,7 +49,6 @@ namespace Core_Cookies_Authentiaction_Test
                 app.UseHsts();
             }
 
-            app.UseAuthentication();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();

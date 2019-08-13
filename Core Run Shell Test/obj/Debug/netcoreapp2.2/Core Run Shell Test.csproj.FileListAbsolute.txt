@@ -1,0 +1,11 @@
+G:\CodeTest\Core Run Shell Test\bin\Debug\netcoreapp2.2\Core Run Shell Test.deps.json
+G:\CodeTest\Core Run Shell Test\bin\Debug\netcoreapp2.2\Core Run Shell Test.runtimeconfig.json
+G:\CodeTest\Core Run Shell Test\bin\Debug\netcoreapp2.2\Core Run Shell Test.runtimeconfig.dev.json
+G:\CodeTest\Core Run Shell Test\bin\Debug\netcoreapp2.2\Core Run Shell Test.dll
+G:\CodeTest\Core Run Shell Test\bin\Debug\netcoreapp2.2\Core Run Shell Test.pdb
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.csprojAssemblyReference.cache
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.csproj.CoreCompileInputs.cache
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.AssemblyInfoInputs.cache
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.AssemblyInfo.cs
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.dll
+G:\CodeTest\Core Run Shell Test\obj\Debug\netcoreapp2.2\Core Run Shell Test.pdb

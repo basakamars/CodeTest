@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\CodeTest\\Core Run Shell Test\\Core Run Shell Test.csproj": {}
+  },
+  "projects": {
+    "G:\\CodeTest\\Core Run Shell Test\\Core Run Shell Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\CodeTest\\Core Run Shell Test\\Core Run Shell Test.csproj",
+        "projectName": "Core Run Shell Test",
+        "projectPath": "G:\\CodeTest\\Core Run Shell Test\\Core Run Shell Test.csproj",
+        "packagesPath": "C:\\Users\\TEMP\\.nuget\\packages\\",
+        "outputPath": "G:\\CodeTest\\Core Run Shell Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TEMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
