@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<p id="testcrypt">@ViewBag.CryptCode</p>
+
+@section Scripts{ 
+<script>
+    $().ready(function () {
+        var key  = CryptoJS.enc.Utf8.parse("123456789012345678901234567890AA");
+        var iv   = CryptoJS.enc.Utf8.parse("1234567890ABCDEF");
+        var encrypted = CryptoJS.AES.decrypt($("#testcrypt").html(), key, {
+            iv: iv,
+            mode: CryptoJS.mode.CBC,
+            padding: CryptoJS.pad.Pkcs7
+        });
+        $("#testcrypt").html(encrypted.toString(CryptoJS.enc.Utf8));
+    });
+    
+</script>
+}
